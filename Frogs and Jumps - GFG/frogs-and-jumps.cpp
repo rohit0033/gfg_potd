@@ -70,3 +70,5 @@ int main() {
     }
 }
 // } Driver Code Ends
+
+// In this code i Use seive algorithum 
