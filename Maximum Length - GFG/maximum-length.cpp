@@ -48,3 +48,6 @@ int main() {
     return 0;
 }
 // } Driver Code Ends
+
+// In this code first I tried find gaps suppose a =11 so it can have 10 gaps in these 10 gaps we can easy fill b and c if there sum is less than 10 but one more thing
+// is here we can we two consecutive a also like aa_aa_aa_aa_aa_a is so there are 5 gaps and we can b and c in there 
