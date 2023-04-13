@@ -3,7 +3,7 @@
 <div class="problems_problem_content__Xm_eO"><p><span style="font-size:18px">Given a string <strong>str</strong>, find the minimum characters to be added at front of the string to make it a palindrome.</span></p>
 
 <p><br>
-<span style="font-size:18px"><strong>Example 1:</strong></span></p>
+<span style="font-size:18px"><strong>Example    1:</strong></span></p>
 
 <pre><span style="font-size:18px"><strong>Input</strong>:
 str = ABCD
@@ -12,7 +12,6 @@ str = ABCD
 after adding 3 characters is DCBABCD.
 The minimum possible answer is 3.</span>
 </pre>
-
 <p><span style="font-size:18px"><strong>Example 2:</strong></span></p>
 
 <pre><span style="font-size:18px"><strong>Input:
